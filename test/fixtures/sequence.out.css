@@ -5,3 +5,7 @@
 .fake-button.small-red-button {
   display: block;
 }
+
+.small-red-button.foo {
+  display: inline-block;
+}

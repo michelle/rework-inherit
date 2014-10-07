@@ -6,6 +6,10 @@
   display: block;
 }
 
+%red-button.foo {
+  display: inline-block;
+}
+
 .small-red-button {
   inherit: %red-button;
 }
